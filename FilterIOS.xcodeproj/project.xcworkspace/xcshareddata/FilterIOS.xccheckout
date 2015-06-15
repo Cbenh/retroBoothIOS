@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3B71FF9B-9E49-49CA-84F8-92CCF1E5C116</string>
+	<key>IDESourceControlProjectName</key>
+	<string>FilterIOS</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>4D0D53A8D202BC61B5ED9A8AA14B5A75E7FAA36F</key>
+		<string>git.epitech.eu:/benham_a/MyMobileApp</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>RetroBooth/Objective-C/FilterIOS/FilterIOS.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>4D0D53A8D202BC61B5ED9A8AA14B5A75E7FAA36F</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>git.epitech.eu:/benham_a/MyMobileApp</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>4D0D53A8D202BC61B5ED9A8AA14B5A75E7FAA36F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>4D0D53A8D202BC61B5ED9A8AA14B5A75E7FAA36F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MyMobileApp</string>
+		</dict>
+	</array>
+</dict>
+</plist>
